@@ -18,6 +18,7 @@ let login_details = {
 
 let review_details = {
     movieId: '',
+    username: 'test2',
     review: 'great movie - 0e65db9f-40db-4511-bbbe-c484f69e3032',
     rating: 1
 }
